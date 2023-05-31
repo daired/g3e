@@ -1,0 +1,22 @@
+@import "styles-general/variables";
+@import "styles-general/typography";
+
+#render-view-wrapper {
+
+  @import "styles-i18n/en";
+  @import "styles-i18n/hi";
+  // include new styles analog to the given above for additional language support
+
+  .render-view-container {
+    // global styles for all languages
+
+    text-align: center;
+
+    p {
+      font-size: 34px;
+    }
+
+  }
+
+}
+

@@ -1,0 +1,46 @@
+
+
+  /******************************************************************
+
+  Variables
+
+  ******************************************************************/
+
+  $assets-folder: '/assets';
+  $font-path: '/fonts';
+
+
+
+  $black:             #231f20;
+  $white:             #fff;
+
+  $light-gray:        #f8f9fa;
+  $dark-gray:         #435f80;
+
+  $gray:              #eaedf2;
+  $gray2:             #d8d8d8;
+  $text-color:        #5c6b80;
+
+  $link-color:        $black;
+  $link-hover:        darken($link-color, 9%);
+
+  $border-color:      #ccc;
+  $disabled-gray:     #cfcfcf;
+  $alert-red:			red;
+  $alert-green:		#645564;
+  $alert-blue:		blue;
+
+  //style variables
+  $green:             #009688;
+  $dark-green:        #00796b;
+  $text-gray:         #676767;
+  $background-gray:   #f5f5f5;
+
+  $product-nav-bg:    rgb(246,246,246);
+
+  $greenGradient:     linear-gradient($dark-green, $green);
+
+
+  $top-carousel-slick-dots-height: 43;
+  $bottom-carousel-slick-dots-height: 37.5;
+
